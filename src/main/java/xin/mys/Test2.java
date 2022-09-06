@@ -6,5 +6,6 @@ public class Test2 {
         System.out.println("changes");
         System.out.println("hot-fix changes lonely!");
         System.out.println("add changes by master at the same time!");
+        System.out.println("hot-fix changes at the same time!");
     }
 }
